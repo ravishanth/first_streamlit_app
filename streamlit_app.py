@@ -52,7 +52,7 @@ streamlit.write('The user entered ', fruit_choice)
 #streamlit.stop()
 
 #-----------------------------------------------------------------
-streamlit.header("The fruit list contains")
+streamlit.header("View our Fruit list -  Add your favorites!")
 
 #snowflake related functions
 def get_fruit_load_list():
