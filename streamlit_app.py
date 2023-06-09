@@ -50,7 +50,7 @@ except URLError as e:
     
 streamlit.write('The user entered ', fruit_choice)
 #stopping streamlit
-streamlit.stop()
+#streamlit.stop()
 
 #-----------------------------------------------------------------
 
