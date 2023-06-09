@@ -41,4 +41,4 @@ streamlit.dataframe(fruityvice_normalized)
 
 -----------------------------------------------------------------
 
-import requirements.txt
+import snowflake.connector
